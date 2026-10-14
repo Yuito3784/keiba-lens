@@ -1,0 +1,10 @@
+{
+  "name": "Keiba Lens",
+  "short_name": "KeibaLens",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f1e9",
+  "theme_color": "#092d27",
+  "lang": "ja",
+  "icons": []
+}
